@@ -9,7 +9,7 @@ import { Footer } from "./footer";
 //create your first component
 export function Home() {
 	return (
-		<div className="text-center mt-5">
+		<div className="text-center">
 			<Navbar />
 			<Jumbotron />
 			<div className="d-flex justify-content-center">
